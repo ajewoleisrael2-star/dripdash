@@ -20,3 +20,10 @@ Double-click `index.html`.
 ## Put it online
 
 GitHub repository, then Settings, Pages, Deploy from a branch, main, / (root), Save.
+## Deployment log
+
+- Downloaded the DripDash source ZIP from the Webbo3 portal and extracted it.
+- Created a public GitHub repository named "dripdash".
+- Uploaded the project contents so index.html sits at the top level.
+- Enabled GitHub Pages: Settings, Pages, Deploy from a branch, main, / (root), Save.
+- Renamed the repository to lowercase "dripdash" and confirmed the live site and the live API both work.
