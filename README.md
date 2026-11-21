@@ -5,7 +5,7 @@ Built by Flexbox Pod at Webbo3 Academy, Frontend Development.
 
 Deployed by: ajewole israel
 
-Live site: https://your-username.github.io/dripdash/
+Live site: https://ajewoleisrael2-star.github.io/dripdash/
 
 ## What it is
 
